@@ -5,9 +5,9 @@
 
 ## 🔧 Skills
 - Verilog HDL (RTL Design & Testbenches)  
-- SystemVerilog (in-progress)  
-- UVM (in-progress)  
-- Python (beginner, 1-month plan)  
+- SystemVerilog   
+- UVM   
+- Python   
 
 ## 📂 Project Portfolio
 Check out my Verilog implementations 👉 [verilog-projects](https://github.com/srilekha-dev/verilog-projects)
