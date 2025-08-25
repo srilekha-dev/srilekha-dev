@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Srilekha  
 
-<!--
-**srilekha-dev/srilekha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about **Digital Design & Verification (Verilog | SystemVerilog | UVM)**   
+🔹 Building a **Verilog Project Portfolio** from basics to advanced  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Verilog HDL (RTL Design & Testbenches)  
+- SystemVerilog (in-progress)  
+- UVM (in-progress)  
+- Python (beginner, 1-month plan)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Project Portfolio
+Check out my Verilog implementations 👉 [verilog-projects](https://github.com/srilekha-dev/verilog-projects)
+
+## 🌱 Current Learning Path
+- Verilog RTL Design & Testbenches  
+- Daily practice projects (Mux, Decoder, Flip-Flops, FSMs, etc.)  
+- Documenting with truth tables, waveforms, and code explanations  
+
+## 📫 Connect with Me
+- 📧 lekha.dachineni@gmail.com  
+- 💼 
+
